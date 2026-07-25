@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADQDQAAAAAAAJkNAAAAAACQCQAAQAAAAJkAAIhI0N3dmZmJiEjQ39+ZmYkAQNDd35mZiYhI0N/fmZmJiEjQ3d2ZmYkAAAAAAJkAAAAAAAAAkAkAAAAAAAAAmQ0AAAAAAADQDQAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerWalk"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//w8AAAAA8N3d/fD/D/Dw/d39j4j///Dd/f+IiA8A8N39/4iIDwDw/d39j4j///Dd3f3w/w/wAP//DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerStand"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
